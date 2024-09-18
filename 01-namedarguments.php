@@ -69,6 +69,8 @@ $pdo->username = 'new_username';
 
 var_dump($pdo);
 
+echo "Done";
+
 
 
 
