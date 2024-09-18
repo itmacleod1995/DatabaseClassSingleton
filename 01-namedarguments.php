@@ -17,6 +17,7 @@ class DatabaseConnect {
             'username' => 'root',
             'password' => ''
         ];
+        
 
         try {
             //self::$pdo = new PDO("mysql:host=localhost;dbname=note_app", 'root', '');
